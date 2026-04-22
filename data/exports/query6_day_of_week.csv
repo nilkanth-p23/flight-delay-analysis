@@ -1,0 +1,8 @@
+"day_of_week","total_flights","on_time_rate","avg_arr_delay","cancellations"
+Sunday,682106,74.11,13.05,0
+Monday,683728,77.10,9.30,0
+Thursday,679313,77.33,9.38,0
+Friday,679045,77.54,8.97,0
+Saturday,596557,79.68,6.45,0
+Wednesday,649806,81.71,4.24,0
+Tuesday,639669,82.55,3.44,0

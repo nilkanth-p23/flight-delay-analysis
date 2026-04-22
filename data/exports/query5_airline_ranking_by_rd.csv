@@ -1,0 +1,25 @@
+"airline_name","distance_tier","flights","on_time_rate","rank_in_tier"
+Delta Air Lines,Long (1000-2000mi),299004,80.20,1
+United Airlines,Long (1000-2000mi),263025,80.00,2
+Southwest Airlines,Long (1000-2000mi),320426,77.79,3
+Alaska Airlines,Long (1000-2000mi),69463,77.13,4
+American Airlines,Long (1000-2000mi),316415,74.81,5
+JetBlue Airways,Long (1000-2000mi),104965,73.98,6
+Delta Air Lines,Medium (500-1000mi),366122,80.24,1
+Alaska Airlines,Medium (500-1000mi),77802,79.88,2
+Southwest Airlines,Medium (500-1000mi),527888,78.17,3
+United Airlines,Medium (500-1000mi),281643,78.12,4
+American Airlines,Medium (500-1000mi),351050,73.88,5
+JetBlue Airways,Medium (500-1000mi),48245,71.70,6
+Delta Air Lines,Short (<500mi),267381,82.33,1
+Southwest Airlines,Short (<500mi),502592,81.51,2
+Alaska Airlines,Short (<500mi),29170,79.59,3
+United Airlines,Short (<500mi),143325,77.79,4
+American Airlines,Short (<500mi),202582,75.47,5
+JetBlue Airways,Short (<500mi),35728,75.13,6
+Southwest Airlines,Ultra Long (2000mi+),29180,83.69,1
+United Airlines,Ultra Long (2000mi+),100751,82.87,2
+Delta Air Lines,Ultra Long (2000mi+),82711,81.29,3
+American Airlines,Ultra Long (2000mi+),85927,80.07,4
+JetBlue Airways,Ultra Long (2000mi+),38650,79.51,5
+Alaska Airlines,Ultra Long (2000mi+),66179,75.60,6

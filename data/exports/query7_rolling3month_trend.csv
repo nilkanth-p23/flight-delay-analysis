@@ -1,0 +1,73 @@
+"airline_name","month","month_name","on_time_rate","rolling_3mo_avg"
+Alaska Airlines,1,January,83.35,83.35
+Alaska Airlines,2,February,79.75,81.55
+Alaska Airlines,3,March,81.88,81.66
+Alaska Airlines,4,April,82.18,81.27
+Alaska Airlines,5,May,75.97,80.01
+Alaska Airlines,6,June,70.90,76.35
+Alaska Airlines,7,July,70.46,72.44
+Alaska Airlines,8,August,73.95,71.77
+Alaska Airlines,9,September,84.34,76.25
+Alaska Airlines,10,October,80.91,79.73
+Alaska Airlines,11,November,81.98,82.41
+Alaska Airlines,12,December,73.18,78.69
+American Airlines,1,January,81.44,81.44
+American Airlines,2,February,80.21,80.83
+American Airlines,3,March,77.68,79.78
+American Airlines,4,April,76.32,78.07
+American Airlines,5,May,74.33,76.11
+American Airlines,6,June,68.15,72.93
+American Airlines,7,July,65.93,69.47
+American Airlines,8,August,70.35,68.14
+American Airlines,9,September,79.77,72.02
+American Airlines,10,October,77.54,75.89
+American Airlines,11,November,77.20,78.17
+American Airlines,12,December,74.42,76.39
+Delta Air Lines,1,January,81.29,81.29
+Delta Air Lines,2,February,80.69,80.99
+Delta Air Lines,3,March,82.18,81.39
+Delta Air Lines,4,April,82.92,81.93
+Delta Air Lines,5,May,78.76,81.29
+Delta Air Lines,6,June,74.61,78.76
+Delta Air Lines,7,July,75.94,76.44
+Delta Air Lines,8,August,83.57,78.04
+Delta Air Lines,9,September,88.08,82.53
+Delta Air Lines,10,October,84.64,85.43
+Delta Air Lines,11,November,82.94,85.22
+Delta Air Lines,12,December,75.26,80.95
+JetBlue Airways,1,January,76.31,76.31
+JetBlue Airways,2,February,72.33,74.32
+JetBlue Airways,3,March,77.90,75.51
+JetBlue Airways,4,April,83.14,77.79
+JetBlue Airways,5,May,74.98,78.67
+JetBlue Airways,6,June,72.42,76.85
+JetBlue Airways,7,July,67.18,71.53
+JetBlue Airways,8,August,75.95,71.85
+JetBlue Airways,9,September,79.85,74.33
+JetBlue Airways,10,October,75.27,77.02
+JetBlue Airways,11,November,75.82,76.98
+JetBlue Airways,12,December,64.83,71.97
+Southwest Airlines,1,January,85.41,85.41
+Southwest Airlines,2,February,84.13,84.77
+Southwest Airlines,3,March,83.06,84.20
+Southwest Airlines,4,April,81.73,82.97
+Southwest Airlines,5,May,77.78,80.86
+Southwest Airlines,6,June,72.78,77.43
+Southwest Airlines,7,July,72.07,74.21
+Southwest Airlines,8,August,79.46,74.77
+Southwest Airlines,9,September,83.70,78.41
+Southwest Airlines,10,October,78.32,80.49
+Southwest Airlines,11,November,80.59,80.87
+Southwest Airlines,12,December,76.36,78.42
+United Airlines,1,January,83.09,83.09
+United Airlines,2,February,81.95,82.52
+United Airlines,3,March,83.27,82.77
+United Airlines,4,April,82.43,82.55
+United Airlines,5,May,76.42,80.71
+United Airlines,6,June,74.48,77.78
+United Airlines,7,July,70.58,73.83
+United Airlines,8,August,77.34,74.13
+United Airlines,9,September,83.70,77.21
+United Airlines,10,October,81.19,80.74
+United Airlines,11,November,79.94,81.61
+United Airlines,12,December,78.00,79.71
