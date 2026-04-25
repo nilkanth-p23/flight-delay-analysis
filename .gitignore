@@ -7,3 +7,5 @@ venv/
 data/cleaned/
 data/raw/
 data/exports/
+*.twbr
+*.twb
